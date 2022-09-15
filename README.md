@@ -11,7 +11,7 @@
     </a>
 </div>
 
-👀 About me:
+### 👀 About me:
 - 🌱 I am currently studying Javascript
 - 💞️ I really like cybersecurity
 - 📫 contact me through jeanpierreloaizaleon@gmail.com
@@ -26,6 +26,9 @@
         title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
 </div>
 
+
+### 📚 My Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jeanpi3009&theme=black-ice&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 
 <!---
