@@ -24,11 +24,19 @@
         width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
         title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git"
+        width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap"
+        alt="Bootstrap" width="40" height="40" />&nbsp;
 </div>
 
 
 ### 📚 My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jeanpi3009&theme=black-ice&hide_border=true&locale=es)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeanpi3009&show_icons=true&theme=radical)
+
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanpi3009&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
